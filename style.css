@@ -1,0 +1,11 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background: #f5dbda;
+}
+.text_images_and_result{
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
